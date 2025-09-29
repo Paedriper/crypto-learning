@@ -17,3 +17,4 @@ test: add unit tests for score normalization edge-cases
 fix(core): correct overflow bug when staking weight > u128::MAX/2
 refactor: extract FeatureWeights into separate module for clarity
 feat(db): integrate Postgres with diesel migrations for user scores
+chore: add pre-commit hooks for rustfmt and clippy
