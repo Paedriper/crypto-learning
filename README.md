@@ -9,3 +9,4 @@
 ## License
 ## FAQ
 ## Roadmap
+chore: initial commit – scaffold Rust workspace and cargo manifest
