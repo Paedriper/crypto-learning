@@ -3,3 +3,6 @@
 ## Getting Started  
 ## Features
 ## Installation
+## Usage
+## Examples
+## Contributing
