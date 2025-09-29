@@ -19,3 +19,4 @@ refactor: extract FeatureWeights into separate module for clarity
 feat(db): integrate Postgres with diesel migrations for user scores
 chore: add pre-commit hooks for rustfmt and clippy
 feat(redis): cache hot wallet scores to reduce DB load by 70%
+docs: create API reference in docs/ using mdBook
